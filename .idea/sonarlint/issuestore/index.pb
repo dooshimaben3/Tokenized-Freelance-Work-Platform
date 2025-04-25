@@ -5,3 +5,5 @@ R
 "contracts/client-verification.clar,5/d/5d4fbcba04a2208b3fbc62049584512d2541c117
 V
 &contracts/freelancer-verification.clar,a/0/a04bd89e38a5ce464d2b8963ae348afa879ff819
+M
+contracts/project-escrow.clar,3/a/3a999588e1b291fde459c17ae47aad044298a3b0
